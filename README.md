@@ -14,8 +14,6 @@ pip3 install proxylist
 
 pip3 install mechanize
 ```
-
-
 # Usage:
 
 ## BruteForce Gmail Attack
